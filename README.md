@@ -1,3 +1,4 @@
 # Facebook
  
-A simple facebook automation script. Just replace "user email" and "password" with your credentials. I will not be responsible to any accounts getting banned by using this.
+A simple facebook login automation script (more features in the future). Just replace "user email" and "password" with your credentials.
+<br>I will not be responsible to any accounts getting banned by using this.
